@@ -1,0 +1,9 @@
+ERROR [GOAL_NOT_CLOSED]: unsolved goals
+m : Type u_1
+n : Type u_2
+inst✝³ : Fintype m
+inst✝² : Fintype n
+inst✝¹ : DecidableEq m
+inst✝ : DecidableEq n
+G : Matrix m n ℝ
+⊢ ∑ x, ∑ x_1, G x x_1 ^ 2 = ((∑ x, ∑ x_1, G x x_1 ^ 2) ^ (1 / 2)) ^ 2

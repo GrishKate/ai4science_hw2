@@ -1,0 +1,1 @@
+OK: Lean 4 code compiles (Mathlib imported, 197 ms).
